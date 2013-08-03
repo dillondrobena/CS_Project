@@ -1,0 +1,1 @@
+Nothing special with this program. Just messing around with certification and Java Applets. Using Java networking along with Applets is a lot more complicated than I was hoping for. I will stick to applications for the time being.
